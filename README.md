@@ -1,0 +1,1 @@
+A pinterest-style app that allows users to add recipes to an online forum. Each recipe is displayed in an interesting profile page. Created as part of Mackenzie Child's Twelve in Twelve Ruby on Rails challenge.  
